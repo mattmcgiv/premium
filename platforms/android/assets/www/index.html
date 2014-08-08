@@ -32,6 +32,7 @@ THE SOFTWARE.
 
 	<link rel="stylesheet" href="css/index.css">
 	<link rel="stylesheet" href="lib/jquery-mobile/css/jquery.mobile-1.4.0.min.css" />
+	<link rel="stylesheet" href="css/font-awesome-4.1.0/css/font-awesome.min.css">
 	
 	<script type="text/javascript" src="lib/jquery-mobile/js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="lib/jquery-mobile-router/js/jquery.mobile.router.min.js"></script>
@@ -44,8 +45,18 @@ THE SOFTWARE.
 
   
 <div data-role="page" id="home">
-	<div data-role="panel" id="left-panel" data-display="push">
-	    Panel content goes here.
+	<div data-role="panel" id="left-panel" data-display="reveal">
+	    <ul data-role="listview">
+		    <a href="#home" data-rel="close">Close panel</a>
+	    	<li data-role="list-divider"> Search:
+	    		<label for="search-basic" style="display:none;">Search:</label>
+	    	</li>
+			<input type="search" name="search" id="search-basic" value="" />
+			<li data-role="list-divider">Main Navigation</li>
+			<li><a href="" class="fa-lg fa fa-camera-retro">List 1</a></li>
+			<li><a href="">List 2</a></li>
+			<li><a href="">List 3</a></li>
+		</ul>
 	</div><!-- /panel -->
 	<div data-role="header" data-position="fixed">
 		<h1>Home</h1>
@@ -85,7 +96,7 @@ THE SOFTWARE.
 <script type="text/javascript" src="lib/handlebars/js/handlebars-v1.3.0.js"></script>
 
 <script type="text/javascript">
-	appomat.app.initialize();
+	antym.app.initialize();
 </script>
 
 </body>
