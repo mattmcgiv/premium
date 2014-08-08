@@ -33,6 +33,7 @@
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/cordova.js \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/cordova_plugins.js \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css \
+/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/index.html \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib \
@@ -76,7 +77,10 @@
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_stacked.scss \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_variables.scss \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/font-awesome.scss \
+/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img/black.png \
+/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img/white.png \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js/index.js \
+/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js/jssor.slider.mini.js \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/fastclick \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/handlebars \
 /Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile \
