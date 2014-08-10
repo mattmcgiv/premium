@@ -3,7 +3,7 @@
 <!-- 
 The MIT License (MIT)
 
-Copyright (c) 2014 Antym LLC
+Copyright (c) 2014 Matt McGivney Antym LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -65,14 +65,13 @@ THE SOFTWARE.
 	</div>
 
 	<div role="main" class="ui-content" id="home-content">
-		<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 100px; height: 100px;">
-			<div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 300px;">
-				<div><img src="img/white.png" alt="white"></div>
-				<div><img src="img/black.png" alt="black"></div>
+		<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 150px; height: 200px;">
+			<div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 150px; height: 200px;">
+				<div><img src="img/white-150wx300h.jpg" alt="white"></div>
+				<div><img src="img/black-150wx300h.jpg" alt="black"></div>
 			</div>
 		</div><!-- end slider1_container -->
-		<p><a href="#next" data-transition="slide">Next Page</a></p>
-	</div>
+	</div><!-- end home-content -->
 </div>
 
 <div data-role="page" id="next">
@@ -102,8 +101,26 @@ THE SOFTWARE.
 <script>
     //slider
     jQuery(document).ready(function ($) {
-        var options = { $AutoPlay: true };
+        var options = { $FillMode: 1, $AutoPlay: true };
         var jssor_slider1 = new $JssorSlider$('slider1_container', options);
+        //responsive code begin
+        //you can remove responsive code if you don't want the slider scales
+        //while window resizes
+        function ScaleSlider() {
+            var parentWidth = $('#slider1_container').parent().width();
+            if (parentWidth) {
+                jssor_slider1.$SetScaleWidth(parentWidth);
+            }
+            else
+                window.setTimeout(ScaleSlider, 30);
+        }
+        //Scale slider after document ready
+        ScaleSlider();
+        if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) {
+            //Capture window resize event
+            $(window).bind('resize', ScaleSlider);
+        }
+        //responsive code end
     });
 </script>
 

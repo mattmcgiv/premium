@@ -1,325 +1,331 @@
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/Premium.ap_ \
- : /Users/matthewmcgivney/Code/premium/platforms/android/res/drawable/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-hdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-land-hdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-land-ldpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-land-mdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-land-xhdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-ldpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-mdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-port-hdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-port-ldpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-port-mdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-port-xhdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/drawable-xhdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/values/strings.xml \
-/Users/matthewmcgivney/Code/premium/platforms/android/res/xml/config.xml \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-hdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-ldpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-mdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/_where-is-www.txt \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/config.xml \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/cordova.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/cordova_plugins.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/index.html \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0 \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/index.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css/font-awesome.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css/font-awesome.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.eot \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.woff \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/FontAwesome.otf \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/bordered-pulled.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/core.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/fixed-width.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/font-awesome.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/icons.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/larger.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/list.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/mixins.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/path.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/rotated-flipped.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/spinning.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/stacked.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/variables.less \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_bordered-pulled.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_core.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_fixed-width.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_icons.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_larger.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_list.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_mixins.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_path.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_rotated-flipped.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_spinning.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_stacked.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_variables.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/font-awesome.scss \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img/black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/img/white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js/index.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/js/jssor.slider.mini.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/fastclick \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/handlebars \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/fastclick/js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/fastclick/js/fastclick.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/handlebars/js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/handlebars/js/handlebars-v1.3.0.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.external-png-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.icons-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.inline-png-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.inline-svg-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.structure-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.theme-1.4.0.min.css \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/ajax-loader.gif \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/action-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/action-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/alert-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/alert-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-l-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-l-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-r-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-r-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-l-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-l-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-r-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-r-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-l-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-l-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-r-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-r-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/audio-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/audio-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/back-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/back-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bars-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bars-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bullets-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bullets-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/calendar-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/calendar-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/camera-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/camera-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-d-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-d-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-l-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-l-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-r-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-r-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-u-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-u-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/check-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/check-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/clock-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/clock-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/cloud-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/cloud-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/comment-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/comment-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/delete-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/delete-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/edit-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/edit-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/eye-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/eye-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forbidden-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forbidden-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forward-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forward-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/gear-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/gear-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/grid-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/grid-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/heart-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/heart-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/home-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/home-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/info-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/info-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/location-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/location-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/lock-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/lock-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/mail-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/mail-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/minus-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/minus-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/navigation-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/navigation-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/phone-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/phone-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/plus-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/plus-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/power-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/power-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/recycle-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/recycle-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/refresh-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/refresh-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/search-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/search-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/shop-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/shop-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/star-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/star-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/tag-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/tag-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/user-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/user-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/video-black.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/video-white.png \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/action-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/action-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/alert-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/alert-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-l-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-l-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-r-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-r-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-l-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-l-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-r-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-r-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-l-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-l-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-r-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-r-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/audio-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/audio-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/back-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/back-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bars-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bars-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bullets-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bullets-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/calendar-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/calendar-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/camera-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/camera-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-d-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-d-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-l-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-l-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-r-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-r-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-u-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-u-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/check-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/check-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/clock-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/clock-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/cloud-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/cloud-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/comment-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/comment-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/delete-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/delete-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/edit-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/edit-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/eye-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/eye-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forbidden-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forbidden-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forward-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forward-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/gear-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/gear-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/grid-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/grid-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/heart-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/heart-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/home-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/home-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/info-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/info-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/location-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/location-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/lock-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/lock-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/mail-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/mail-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/minus-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/minus-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/navigation-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/navigation-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/phone-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/phone-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/plus-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/plus-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/power-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/power-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/recycle-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/recycle-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/refresh-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/refresh-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/search-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/search-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/shop-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/shop-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/star-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/star-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/tag-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/tag-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/user-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/user-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/video-black.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/video-white.svg \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.min.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.min.map \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.min.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.min.map \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js/jquery.mobile.router.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js/jquery.mobile.router.min.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www \
-/Users/matthewmcgivney/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js \
-/Users/matthewmcgivney/Code/premium/platforms/android/ant-build/AndroidManifest.xml \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/Premium.ap_ \
+ : /Volumes/My Book/Development/Code/premium/platforms/android/res/drawable/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-hdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-land-hdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-land-ldpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-land-mdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-land-xhdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-ldpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-mdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-port-hdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-port-ldpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-port-mdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-port-xhdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/drawable-xhdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/values/strings.xml \
+/Volumes/My Book/Development/Code/premium/platforms/android/res/xml/config.xml \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/_where-is-www.txt \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/config.xml \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/cordova.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/cordova_plugins.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/index.html \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0 \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/index.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css/font-awesome.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/css/font-awesome.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.eot \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/fontawesome-webfont.woff \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/fonts/FontAwesome.otf \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/bordered-pulled.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/core.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/fixed-width.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/font-awesome.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/icons.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/larger.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/list.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/mixins.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/path.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/rotated-flipped.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/spinning.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/stacked.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/less/variables.less \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_bordered-pulled.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_core.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_fixed-width.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_icons.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_larger.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_list.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_mixins.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_path.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_rotated-flipped.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_spinning.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_stacked.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/_variables.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/css/font-awesome-4.1.0/scss/font-awesome.scss \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/black-150wx300h.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/black2-width1024.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/black2.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/white-150wx300h.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/white2-width1024.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/img/white2.jpg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/js/index.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/js/jssor.slider.mini.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/fastclick \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/handlebars \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/fastclick/js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/fastclick/js/fastclick.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/handlebars/js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/handlebars/js/handlebars-v1.3.0.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.external-png-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.icons-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.inline-png-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.inline-svg-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.structure-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/jquery.mobile.theme-1.4.0.min.css \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/ajax-loader.gif \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/action-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/action-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/alert-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/alert-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-l-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-l-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-r-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-r-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-d-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-l-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-l-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-r-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-r-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-l-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-l-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-r-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-r-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/arrow-u-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/audio-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/audio-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/back-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/back-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bars-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bars-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bullets-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/bullets-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/calendar-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/calendar-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/camera-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/camera-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-d-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-d-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-l-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-l-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-r-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-r-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-u-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/carat-u-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/check-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/check-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/clock-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/clock-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/cloud-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/cloud-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/comment-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/comment-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/delete-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/delete-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/edit-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/edit-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/eye-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/eye-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forbidden-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forbidden-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forward-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/forward-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/gear-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/gear-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/grid-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/grid-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/heart-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/heart-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/home-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/home-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/info-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/info-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/location-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/location-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/lock-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/lock-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/mail-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/mail-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/minus-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/minus-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/navigation-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/navigation-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/phone-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/phone-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/plus-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/plus-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/power-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/power-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/recycle-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/recycle-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/refresh-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/refresh-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/search-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/search-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/shop-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/shop-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/star-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/star-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/tag-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/tag-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/user-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/user-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/video-black.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-png/video-white.png \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/action-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/action-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/alert-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/alert-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-l-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-l-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-r-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-r-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-d-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-l-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-l-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-r-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-r-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-l-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-l-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-r-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-r-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/arrow-u-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/audio-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/audio-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/back-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/back-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bars-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bars-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bullets-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/bullets-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/calendar-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/calendar-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/camera-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/camera-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-d-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-d-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-l-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-l-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-r-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-r-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-u-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/carat-u-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/check-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/check-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/clock-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/clock-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/cloud-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/cloud-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/comment-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/comment-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/delete-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/delete-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/edit-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/edit-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/eye-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/eye-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forbidden-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forbidden-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forward-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/forward-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/gear-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/gear-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/grid-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/grid-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/heart-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/heart-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/home-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/home-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/info-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/info-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/location-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/location-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/lock-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/lock-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/mail-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/mail-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/minus-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/minus-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/navigation-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/navigation-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/phone-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/phone-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/plus-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/plus-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/power-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/power-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/recycle-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/recycle-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/refresh-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/refresh-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/search-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/search-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/shop-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/shop-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/star-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/star-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/tag-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/tag-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/user-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/user-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/video-black.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/css/images/icons-svg/video-white.svg \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.min.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery-1.11.0.min.map \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.min.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile/js/jquery.mobile-1.4.0.min.map \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js/jquery.mobile.router.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/lib/jquery-mobile-router/js/jquery.mobile.router.min.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www \
+/Volumes/My Book/Development/Code/premium/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js \
+/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/AndroidManifest.xml \
