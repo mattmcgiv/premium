@@ -22,7 +22,7 @@ package com.antym.premium;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class Premium extends CordovaActivity 
+public class premium extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)

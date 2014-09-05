@@ -1,31 +1,9 @@
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes.dex : \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/BuildConfig.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/Premium.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/R$attr.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/R$drawable.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/R$string.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/R$xml.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/com/antym/premium/R.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1$2.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$2.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$3.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2$4.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$2.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$2.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$3.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3$4.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$3.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$4$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$4.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$5$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification$5.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/dialogs/Notification.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$1.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$2.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar.class \
-/Volumes/My Book/Development/Code/premium/platforms/android/ant-build/dexedLibs/classes-b4c1c07ceb7cd70ab9a0a2ed20caecad.jar \
+/vagrant/premium/platforms/android/ant-build/classes.dex : \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/BuildConfig.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/premium.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/R$attr.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/R$drawable.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/R$string.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/R$xml.class \
+/vagrant/premium/platforms/android/ant-build/classes/com/antym/premium/R.class \
+/vagrant/premium/platforms/android/ant-build/dexedLibs/classes-5a9e684e13db0548afb8ac12ad12dfaf.jar \
